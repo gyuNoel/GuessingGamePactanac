@@ -11,12 +11,12 @@ This is simple client-server number guessing game using Python socket programmin
 
 
 # How to Run?
--Step 1. Clone the repository or download the source code.
--Step 2. Open two of any of the two: terminal or command prompt.
--Step 3. In one window of terminal/command prompt, navigate to the directory with the server script.
--Step 4. Execute the server script by using the command 'python gameserver.py'
--Step 5. In the other window of terminal/cmd, navigate to the client script run it by using the command 'python gameserver.py'
--Step 6. The game is now ready. Enter the difficulty level and guess the mystery number.
+- Step 1. Clone the repository or download the source code.
+- Step 2. Open two of any of the two: terminal or command prompt.
+- Step 3. In one window of terminal/command prompt, navigate to the directory with the server script.
+- Step 4. Execute the server script by using the command 'python gameserver.py'
+- Step 5. In the other window of terminal/cmd, navigate to the client script run it by using the command 'python gameserver.py'
+- Step 6. The game is now ready. Enter the difficulty level and guess the mystery number.
 
 # Files
 - `gameserver.py`: Contains the server-side code for handling connection with the client
