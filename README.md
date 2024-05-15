@@ -24,3 +24,4 @@ This is simple client-server number guessing game using Python socket programmin
 - `leaderboard.json`: JSON file used to store and update the leaderboard data.
 
 ____________________________________________________________________________________________________________________________________________________________
+- NOEL C. PACTANAC JR
